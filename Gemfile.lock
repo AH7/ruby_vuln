@@ -53,4 +53,4 @@ DEPENDENCIES
   actionmailer (= 3.2.14)
 
 BUNDLED WITH
-   1.12.5
+   1.13.6
