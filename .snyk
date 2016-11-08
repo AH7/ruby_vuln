@@ -1,0 +1,63 @@
+version: v1.5.0
+ignore:
+  SNYK-RUBY-ACTIONMAILER-20112:
+    - '* > actionmailer@3.2.14':
+        reason: None given
+        expires: '2016-12-08T13:25:55.300Z'
+  SNYK-RUBY-ACTIONPACK-20121:
+    - '* > actionmailer@3.2.14':
+        reason: None given
+        expires: '2016-12-08T13:25:55.300Z'
+  SNYK-RUBY-ACTIONPACK-20122:
+    - '* > actionmailer@3.2.14':
+        reason: None given
+        expires: '2016-12-08T13:25:55.300Z'
+  SNYK-RUBY-ACTIONPACK-20123:
+    - '* > actionmailer@3.2.14':
+        reason: None given
+        expires: '2016-12-08T13:25:55.300Z'
+  SNYK-RUBY-ACTIONPACK-20125:
+    - '* > actionmailer@3.2.14':
+        reason: None given
+        expires: '2016-12-08T13:25:55.300Z'
+  SNYK-RUBY-ACTIONPACK-20147:
+    - '* > actionmailer@3.2.14':
+        reason: None given
+        expires: '2016-12-08T13:25:55.300Z'
+  SNYK-RUBY-ACTIONPACK-20148:
+    - '* > actionmailer@3.2.14':
+        reason: None given
+        expires: '2016-12-08T13:25:55.300Z'
+  SNYK-RUBY-ACTIONPACK-20158:
+    - '* > actionmailer@3.2.14':
+        reason: None given
+        expires: '2016-12-08T13:25:55.300Z'
+  SNYK-RUBY-ACTIONPACK-20198:
+    - '* > actionmailer@3.2.14':
+        reason: None given
+        expires: '2016-12-08T13:25:55.300Z'
+  SNYK-RUBY-ACTIONPACK-20200:
+    - '* > actionmailer@3.2.14':
+        reason: None given
+        expires: '2016-12-08T13:25:55.300Z'
+  SNYK-RUBY-ACTIONPACK-20256:
+    - '* > actionmailer@3.2.14':
+        reason: None given
+        expires: '2016-12-08T13:25:55.300Z'
+  SNYK-RUBY-ACTIONPACK-20258:
+    - '* > actionmailer@3.2.14':
+        reason: None given
+        expires: '2016-12-08T13:25:55.300Z'
+  SNYK-RUBY-ACTIONPACK-20264:
+    - '* > actionmailer@3.2.14':
+        reason: None given
+        expires: '2016-12-08T13:25:55.301Z'
+  SNYK-RUBY-ACTIVESUPPORT-20229:
+    - '* > actionmailer@3.2.14':
+        reason: None given
+        expires: '2016-12-08T13:25:55.301Z'
+  SNYK-RUBY-MAIL-20244:
+    - '* > actionmailer@3.2.14':
+        reason: None given
+        expires: '2016-12-08T13:25:55.301Z'
+patch: {}
